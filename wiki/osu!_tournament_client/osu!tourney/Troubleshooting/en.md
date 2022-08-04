@@ -46,6 +46,11 @@ Make sure that the room is named correctly by following the [multiplayer usage g
 
 See previous answer.
 
+## I am unable to spectate 8+ people!
+
+In usual circumstances, the osu!tourney client is unable to spectate more than 8 people at once.
+Please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) for this kind of ability.
+
 ## How do I stream my tournament to streaming services like Twitch?
 
 We recommend using [Open Broadcaster Software](https://obsproject.com/), but any other streaming program that can capture the screen may also be used.
