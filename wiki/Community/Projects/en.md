@@ -40,6 +40,21 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 <!-- Add the projects into the most appropriate group then in alphabetical order. -->
 
+### Discord Bots
+
+- Bathbot
+  - [Invite]
+- Elitebotix - A discord bot mostly focused on the tournament side of osu!
+  - [Server] | [Invite]
+- Essess
+  - [Invite]
+- Flashlight
+  - [Invite]
+- owo
+  - [Invite]
+- Yuna
+  - [Invite]
+
 ### Game Clients
 
 - McOsu — A free open-source circle-clicking rhythm game practice client for osu! beatmaps with Virtual Reality support.
