@@ -42,18 +42,16 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Discord Bots
 
-- Bathbot
-  - [Invite]
+- Bathbot - A multifunctional osu bot
+  - [Invite](https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=36776045632&scope=bot%20applications.commands)
 - Elitebotix - A discord bot mostly focused on the tournament side of osu!
-  - [Server] | [Invite]
-- Essess
-  - [Invite]
-- Flashlight
-  - [Invite]
-- owo
-  - [Invite]
-- Yuna
-  - [Invite]
+  - [Invite](https://discord.com/oauth2/authorize?client_id=981205694340546571&scope=bot+applications.commands&permissions=285256792)
+- Flashlight - Used to calculate your tournament performance
+  - [Invite](https://discord.com/oauth2/authorize?client_id=792672311048011826&permissions=2147601472&scope=bot%20applications.commands)
+- owo - A osu! focused bot with economy and more
+  - [Invite](https://discordapp.com/oauth2/authorize?client_id=289066747443675143&scope=bot&permissions=305187840)
+- Yuna - Bot used to render replays with danser-go
+  - [Invite](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480)
 
 ### Game Clients
 
